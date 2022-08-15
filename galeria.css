@@ -1,0 +1,21 @@
+div.galeria
+{
+    margin: -20px 10px 300px 67px;
+    float: left;
+    width: 260px;
+    transform: translateY(4%);
+    transition: 2s;
+}
+
+div.galeria img
+{
+    width: 200px;
+    height: 300px;
+
+}
+
+div.galeria:hover
+{
+    border: 0px;
+    height: 20px;
+}
